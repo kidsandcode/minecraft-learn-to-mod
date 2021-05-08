@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "yxx",
+    "zyz",
+    "xxy"
+  ],
+  "key": {
+    "x": {
+      "item": "minecraft:diamond_block"
+    },
+    "y": {
+      "item": "minecraft:pink_stained_glass_pane"
+    },
+    "z": {
+      "item": "minecraft:polished_blackstone"
+    }
+  },
+  "result": {
+    "item": "moddingone:my_ingot"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "mccourse:my_ingot"
+  },
+  "result": "mccourse:my_shovel",
+  "experience": 5.0,
+  "cookingtime": 120
+}

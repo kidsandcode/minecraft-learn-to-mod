@@ -1,0 +1,24 @@
+{
+  "block.moddingone.my_block": "Block",
+  "block.moddingone.my_ore": "Ore",
+  "block.moddingone.lucky_block": "Lucky Block",
+
+  "item.moddingone.my_ingot": "Ingot",
+  "item.moddingone.my_balloon": "Balloon",
+  "item.moddingone.my_food": "Food",
+
+  "item.moddingone.my_sword": "Sword",
+  "item.moddingone.my_shovel": "Shovel",
+  "item.moddingone.my_pickaxe": "Pickaxe",
+  "item.moddingone.my_axe": "Axe",
+
+  "item.moddingone.copper_helmet": "Helmet",
+  "item.moddingone.copper_chestplate": "Chestplate",
+  "item.moddingone.copper_leggings": "Leggings",
+  "item.moddingone.copper_boots": "Boots",
+
+  "entity.moddingone.my_mob": "Mob",
+
+  "itemGroup.course_tab": "Kids and Code"
+
+}

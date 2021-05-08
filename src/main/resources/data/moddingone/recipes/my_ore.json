@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "xxx",
+    "xbx",
+    "xxx"
+  ],
+  "key": {
+    "x": {
+      "item": "moddingone:my_ingot"
+    },
+    "b": {
+      "item": "moddingone:my_balloon"
+    }
+  },
+  "result": {
+    "item": "moddingone:my_ore"
+  }
+}

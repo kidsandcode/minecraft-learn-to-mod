@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "mccourse:my_ingot"
+  },
+  "result": "mccourse:my_sword",
+  "experience": 5.0,
+  "cookingtime": 120
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "",
+  "ingredients": [
+    { "item": "moddingone:my_block" }
+  ],
+  "result": {
+    "item": "moddingone:my_balloon",
+    "count": 2
+  }
+}
